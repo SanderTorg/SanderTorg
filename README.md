@@ -21,9 +21,4 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"c alt="nextjs" width="40" height="40"/></a> 
 </p>
 
-<div align="center">
-<p><img align="left" src="https://github-readme-stats.netlify.app/api/top-langs?username=sandertorg&show_icons=true&locale=en&layout=compact" alt="sandertorg" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandertorg&show_icons=true&locale=en" alt="sandertorg" /></p>
-</div>
-
 
