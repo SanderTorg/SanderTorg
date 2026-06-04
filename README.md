@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My portfolio**
 
-- 🌱 I’m currently learning **React and Typescript**
+- 🌱 I’m currently learning **New Frameworks like **
 
 - 💬 Ask me about **React, NextJS, Zustand and Zod**
 
