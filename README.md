@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and Typescript**
 
-- 💬 Ask me about **HTML and CSS**
+- 💬 Ask me about **React, NextJS, Zustand and Zod**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
