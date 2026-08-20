@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sander Torgersen</h1>
 <h3 align="center">A passionate frontend developer from Norway</h3>
-<h3 align="center">Currently studying information technologies - Fullstack Developer</h3>
+<h3 align="center">Currently studying information technologies - Fullstack Developer at Kristiania University</h3>
 
 - 🔭 I’m currently working on **My portfolio**
 
